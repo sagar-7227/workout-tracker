@@ -15,6 +15,7 @@ import (
 	"workout-tracker/config"
 	"workout-tracker/routes"
 	"workout-tracker/seed"
+	_ "workout-tracker/docs"
 )
 
 // @title Workout Tracker API
